@@ -1,4 +1,3 @@
 # wit
-A project from CoursePyth. try to make a semi git system
+A project from CoursePyth. try to make a semi git system in python.
 
-its very similiar to git jsut in Python
